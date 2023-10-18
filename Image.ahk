@@ -9,7 +9,7 @@ Exit()
 
 Folder := A_Temp "\2DE54038-C483-4386-BB5D-A8A495946CA417225"
 
-UrlDownloadToFile, https://github.com/philobater/ahk-itachii/raw/main/Images/Amazon_bitch.bmp, %Folder%\Amazon_bitch.bmp
+UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/Amazon_bitch.bmp, %Folder%\Amazon_bitch.bmp
 UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/Amazon_bitch2.bmp, %Folder%\Amazon_bitch2.bmp
 UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/Nox.bmp, %Folder%\Nox.bmp
 UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/amazonbm.bmp, %Folder%\amazonbm.bmp
