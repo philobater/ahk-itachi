@@ -15,7 +15,7 @@ UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/Nox.
 UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/amazonbm.bmp, %Folder%\amazonbm.bmp
 UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/amazoncode.bmp, %Folder%\amazoncode.bmp
 UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/change1.bmp, %Folder%\change1.bmp
-UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/change2.bmp, %Folder%\Cchange2.bmp
+UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/change2.bmp, %Folder%\change2.bmp
 UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/cookie.bmp, %Folder%\cookie.bmp
 UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/cookie2.bmp, %Folder%\cookie2.bmp
 UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/cookie_delete.bmp, %Folder%\cookie_delete.bmp
