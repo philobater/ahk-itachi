@@ -45,5 +45,6 @@ UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/numb
 UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/otp.bmp, %Folder%\otp.bmp
 UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/puzzle.bmp, %Folder%\puzzle.bmp
 UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/signup.bmp, %Folder%\signup.bmp
+UrlDownloadToFile, https://github.com/philobater/ahk-itachi/raw/main/Images/mailtm_refresh.bmp, %Folder%\mailtm_refresh.bmp
 exitapp
 return
